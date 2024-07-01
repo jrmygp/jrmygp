@@ -1,1 +1,1 @@
-Professional bug generator for Kolabora Smart System.
+Professional bug generator for Sprint Asia Technology.
